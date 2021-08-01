@@ -1,9 +1,0 @@
-{
-    "name": "InterHax",
-   "repositories": [
-        {
-            "type": "composer",
-            "url": "https://github.com/jahsharshad/InterHax-Website"
-        }
-    ]
-}
